@@ -196,3 +196,61 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 [2022-07-06T13:50:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
 1657115450721	Marionette	INFO	Stopped listening on port 53269
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657121305990	geckodriver	INFO	Listening on 127.0.0.1:53467
+1657121309114	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53468" "-no-remote" "-profile" "C:\\Users\\SHIPPI~1\\AppData\\Local\\Temp\\rust_mozprofilegJuU6B"
+1657121310562	Marionette	INFO	Marionette enabled
+1657121310579	Marionette	INFO	Listening on port 53475
+WebDriver BiDi listening on ws://localhost:53468
+1657121310948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIPPI~1\\AppData\\Local\\Temp\\rust_mozprofilegJuU6B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53468/devtools/browser/81f46baf-8178-4d19-8703-c0895c87e321
+1657121316835	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://earth.google.com/static/wasm/9.166.0.1/earthwasm.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: getParameter: pname: Invalid enum value MAX_SAMPLES
+1657121362074	Marionette	INFO	Stopped listening on port 53475
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657121364433	geckodriver	INFO	Listening on 127.0.0.1:53625
+1657121367522	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53626" "-no-remote" "-profile" "C:\\Users\\SHIPPI~1\\AppData\\Local\\Temp\\rust_mozprofilel68Kew"
+1657121368779	Marionette	INFO	Marionette enabled
+1657121368795	Marionette	INFO	Listening on port 53632
+WebDriver BiDi listening on ws://localhost:53626
+1657121369425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIPPI~1\\AppData\\Local\\Temp\\rust_mozprofilel68Kew\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53626/devtools/browser/c75fd9e2-5bfc-4314-8445-3dba9180ae18
+1657121373691	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://earth.google.com/static/wasm/9.166.0.1/earthwasm.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: getParameter: pname: Invalid enum value MAX_SAMPLES
+1657121449283	Marionette	INFO	Stopped listening on port 53632
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657121449855	geckodriver	INFO	Listening on 127.0.0.1:53844
+1657121453092	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53845" "-no-remote" "-profile" "C:\\Users\\SHIPPI~1\\AppData\\Local\\Temp\\rust_mozprofileHm9ZkT"
+1657121454196	Marionette	INFO	Marionette enabled
+1657121454208	Marionette	INFO	Listening on port 53858
+WebDriver BiDi listening on ws://localhost:53845
+1657121455047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIPPI~1\\AppData\\Local\\Temp\\rust_mozprofileHm9ZkT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53845/devtools/browser/dcfffa56-428d-4cf7-9e7a-676de4c8ee17
+1657121459230	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://earth.google.com/static/wasm/9.166.0.1/earthwasm.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: getParameter: pname: Invalid enum value MAX_SAMPLES
+1657121485425	Marionette	INFO	Stopped listening on port 53858
+1657121550818	geckodriver	INFO	Listening on 127.0.0.1:54118
+1657121553917	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54119" "-no-remote" "-profile" "C:\\Users\\SHIPPI~1\\AppData\\Local\\Temp\\rust_mozprofileWIDliW"
+1657121555558	Marionette	INFO	Marionette enabled
+1657121555583	Marionette	INFO	Listening on port 54129
+WebDriver BiDi listening on ws://localhost:54119
+1657121556359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIPPI~1\\AppData\\Local\\Temp\\rust_mozprofileWIDliW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54119/devtools/browser/efbc0cd8-5a91-45c7-a453-dd1034be7137
+1657121560115	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://earth.google.com/static/wasm/9.166.0.1/earthwasm.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: getParameter: pname: Invalid enum value MAX_SAMPLES
+1657121585604	Marionette	INFO	Stopped listening on port 54129
